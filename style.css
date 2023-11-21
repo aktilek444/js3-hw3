@@ -1,0 +1,66 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container{ 
+    margin: 200px auto; 
+    border: 5px solid black; 
+    height: 88vh; 
+    width: 130vh; 
+    border-radius: 9px;
+}
+
+
+.card1{
+    background-color: rgb(29, 139, 29);
+    width: 940px;
+    height: 200px;
+    margin: 10px;
+    position: relative;
+
+}
+
+.card2{
+    background-color: rgb(77, 247, 77);
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+
+}
+
+
+.card3{
+    background-color: rgb(144, 240, 144);
+    width: 500px;
+    height: 200px;
+    margin: 10px;
+    position: relative;
+    left: 220px;
+    bottom: 210px;
+
+}
+
+
+.card4{
+    background-color: rgb(77, 247, 77);
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    position: relative;
+    left: 740px;
+    bottom: 420px;
+
+}
+
+
+.card5{
+    background-color: rgb(0, 114, 0);
+    width: 940px;
+    height: 200px;
+    margin: 10px;
+    position: relative;
+    bottom: 420px;
+
+}
